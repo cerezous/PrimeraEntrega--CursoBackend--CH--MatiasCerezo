@@ -37,18 +37,5 @@
     "thumbnails": [
       "/img/napolitana.png"
     ]
-  },
-  {
-    "id": 4,
-    "title": "Pizza Todas las carnes",
-    "description": "Incluye: pollo, chorizo, vienesa, jamón y queso.",
-    "code": "PZ004",
-    "price": 11000,
-    "status": true,
-    "stock": 7,
-    "category": "pizzas",
-    "thumbnails": [
-      "img/todaslascarnes.png"
-    ]
   }
 ]
