@@ -1,0 +1,16 @@
+{
+  "name": "entrega-backend",
+  "version": "1.0.0",
+  "description": "Primera entrega del curso de Backend CH, creación del servidor y manejo de métodos y rutas",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "backend", "api", "products", "carts"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza Margarita",
+    "description": "Clásica pizza con salsa de tomate, mozzarella y albahaca.",
+    "code": "PZ001",
+    "price": 8000,
+    "status": true,
+    "stock": 10,
+    "category": "pizzas",
+    "thumbnails": [
+      "/img/margarita.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pizza Pepperoni",
+    "description": "Pizza con salsa de tomate, mozzarella y pepperoni.",
+    "code": "PZ002",
+    "price": 9500,
+    "status": true,
+    "stock": 8,
+    "category": "pizzas",
+    "thumbnails": [
+      "/img/pepperoni.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pizza Napolitana",
+    "description": "Pizza tradicional con salsa de tomate, mozzarella, tomate en rodajas y orégano.",
+    "code": "PZ003",
+    "price": 10000,
+    "status": true,
+    "stock": 5,
+    "category": "pizzas",
+    "thumbnails": [
+      "/img/napolitana.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pizza Todas las carnes",
+    "description": "Incluye: pollo, chorizo, vienesa, jamón y queso.",
+    "code": "PZ004",
+    "price": 11000,
+    "status": true,
+    "stock": 7,
+    "category": "pizzas",
+    "thumbnails": [
+      "img/todaslascarnes.png"
+    ]
+  }
+]
